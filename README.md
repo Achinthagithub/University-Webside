@@ -25,9 +25,9 @@ Read testimonials from satisfied customers.
 # Footer
 The footer section provides additional information:
 
-Contact Information: Find our restaurant's address, phone number, and email address.
-Follow Us: Stay updated by following us on social media platforms.
-About Us: Learn more about our restaurant and our commitment to providing quality food and excellent service.
+Contact Information: Find our restaurant's address, phone number, and email address.<br>
+Follow Us: Stay updated by following us on social media platforms.<br>
+About Us: Learn more about our restaurant and our commitment to providing quality food and excellent service.<br>
 
 We welcome contributions from the community! If you'd like to contribute to the project, please follow the guidelines outlined in the Contributing section of the README fil
 
