@@ -3,7 +3,7 @@
 Welcome to our University website project! This project is built using React, providing a modern and interactive platform for showcasing services. Our website is designed to be fully responsive, ensuring a seamless experience across various devices and screen sizes.
 
 # See here
-To explore the live version of the website,<br>![Home](https://github.com/Achinthagithub/University-Webside/assets/122146942/cc69853d-2bae-4883-8621-269351c48a64)
+To explore the live version of the website,<br>![localhost_5173_ (1)](https://github.com/Achinthagithub/University-Webside/assets/122146942/a0f227fc-b558-4c7c-9d6a-c3d826821695)
 
 
 
