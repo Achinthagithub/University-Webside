@@ -16,9 +16,10 @@ The navigation bar provides easy access to different sections of our website:
 6 Service Section In the service section, you'll find information about the services we provide:<br>
                   
 
-Quality Assurance:We uphold the highest standards of quality in every dish we serve, meticulously sourcing ingredients and maintaining strict hygiene protocols to guarantee a safe and enjoyable dining experience.
-Customizable Orders:Tailor your meal to your liking with our customizable options, allowing you to create a dining experience that suits your preferences perfectly.
-Good Fast Deliveries:We prioritize speedy deliveries, From the kitchen to your table in record time, our commitment to swift service means you'll never have to wait long for your delicious meal to arrive.
+Quality Assurance:We uphold the highest standards of quality in every dish we serve, meticulously sourcing ingredients and maintaining strict hygiene protocols to guarantee a safe and enjoyable dining experience.<br>
+Customizable Orders:Tailor your meal to your liking with our customizable options, allowing you to create a dining experience that suits your preferences perfectly.<br>
+Good Fast Deliveries:We prioritize speedy deliveries, From the kitchen to your table in record time, our commitment to swift service means you'll never have to wait long for your delicious meal to arrive.<![Home](https://github.com/Achinthagithub/University-Webside/assets/122146942/9146aa74-5ce6-4579-85d4-16035a69c917)
+br>
 Testimonial Section
 Read testimonials from satisfied customers.
 
