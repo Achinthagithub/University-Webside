@@ -9,11 +9,11 @@ To explore the live version of the website, visit here.
 The navigation bar provides easy access to different sections of our website:
 
 1 Home: Navigate back to the home page to explore our offerings.<br>
-2 About: View our restaurant website.
-3 Services: Learn more about the services we offer, including fast deliveries.
-4 Testimonials: Read testimonials from our satisfied customers.
-5 Contact: Find our restaurant's location, contact details, and hours of operation.
-6 Service Section In the service section, you'll find information about the services we provide:
+2 About: View our restaurant website.<br>
+3 Services: Learn more about the services we offer, including fast deliveries.<br>
+4 Testimonials: Read testimonials from our satisfied customers.<br>
+5 Contact: Find our restaurant's location, contact details, and hours of operation.<br>
+6 Service Section In the service section, you'll find information about the services we provide:<br>
                   
 
 Quality Assurance:We uphold the highest standards of quality in every dish we serve, meticulously sourcing ingredients and maintaining strict hygiene protocols to guarantee a safe and enjoyable dining experience.
