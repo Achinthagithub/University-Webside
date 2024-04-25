@@ -5,7 +5,7 @@ Welcome to our University website project! This project is built using React, pr
 # See here
 To explore the live version of the website,<br>
 <h3>Home Section<h3/>
-![Home](https://github.com/Achinthagithub/University-Webside/assets/122146942/44ea2470-1675-4c3d-bc7d-1d5686b55ef7)
+https://github.com/Achinthagithub/University-Webside/assets/122146942/44ea2470-1675-4c3d-bc7d-1d5686b55ef7
 
 
 
