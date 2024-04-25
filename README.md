@@ -11,6 +11,7 @@ https://github.com/Achinthagithub/University-Webside/assets/122146942/44ea2470-1
 
 # Navbar
 The navigation bar provides easy access to different sections of our website:
+![About](https://github.com/Achinthagithub/University-Webside/assets/122146942/b2cbca21-eb93-4777-88c1-d5faf5265bc1)
 
 1 Home: Navigate back to the home page to explore our offerings.<br>
 2 About: View our restaurant website.<br>
