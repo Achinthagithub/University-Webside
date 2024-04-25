@@ -8,7 +8,7 @@ To explore the live version of the website, visit here.
 # Navbar
 The navigation bar provides easy access to different sections of our website:
 
-1 Home: Navigate back to the home page to explore our offerings.
+1 Home: Navigate back to the home page to explore our offerings.<br>
 2 About: View our restaurant website.
 3 Services: Learn more about the services we offer, including fast deliveries.
 4 Testimonials: Read testimonials from our satisfied customers.
