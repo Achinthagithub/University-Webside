@@ -13,26 +13,13 @@ To explore the live version of the website,<br>![localhost_5173_ (1)](https://gi
 The navigation bar provides easy access to different sections of our website:
 
 1 Home: Navigate back to the home page to explore our offerings.<br>
-2 About: View our restaurant website.<br>
-3 Services: Learn more about the services we offer, including fast deliveries.<br>
-4 Testimonials: Read testimonials from our satisfied customers.<br>
-5 Contact: Find our restaurant's location, contact details, and hours of operation.<br>
-6 Service Section In the service section, you'll find information about the services we provide:<br>
+2 Program: View our Programs website.<br>
+3 About US: Learn more about the learning Calture, including Environment.<br>
+4 Campus: Some Of our Student Photos.<br>
+5 Testimonials: Find our Gradusted student Massage,Read testimonials from satisfied Studens. <br>
+6 Contact Us Service Section : location, contact details, and hours of operation., you'll find information about the services we provide:<br>
                   
 
-Quality Assurance:We uphold the highest standards of quality in every dish we serve, meticulously sourcing ingredients and maintaining strict hygiene protocols to guarantee a safe and enjoyable dining experience.<br>
-Customizable Orders:Tailor your meal to your liking with our customizable options, allowing you to create a dining experience that suits your preferences perfectly.<br>
-Good Fast Deliveries:We prioritize speedy deliveries, From the kitchen to your table in record time, our commitment to swift service means you'll never have to wait long for your delicious meal to arrive.
-<br>
-Testimonial Section
-Read testimonials from satisfied customers.
-
-# Footer
-The footer section provides additional information:
-
-Contact Information: Find our restaurant's address, phone number, and email address.<br>
-Follow Us: Stay updated by following us on social media platforms.<br>
-About Us: Learn more about our restaurant and our commitment to providing quality food and excellent service.<br>
 
 We welcome contributions from the community! If you'd like to contribute to the project, please follow the guidelines outlined in the Contributing section of the README fil
 
